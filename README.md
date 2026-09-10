@@ -1,115 +1,77 @@
-# 👋 Hi, I'm Waseem Akram
+# 💫 About Me
+## Quantum Software Engineer | Machine Learning Specialist | Hybrid Systems Architect
+I am a **Software Engineer** and **Quantum Computing Researcher** specializing in the development of **Quantum-Classical Hybrid Systems**. My current research and engineering efforts focus on combinatorial optimization, variational quantum algorithms (**QAOA, VQE**), and **Quantum Machine Learning (QML)** frameworks. With a rigorous background bridging classical AI/ML, full-stack systems, and quantum circuit synthesis, I build resilient, data-driven solutions targeting near-term quantum advantage (NISQ era).
 
-## ⚛️ Quantum Software Engineer | Machine Learning Specialist
-
-I am a **Quantum Software Engineer and Machine Learning Specialist** focused on exploring the intersection of **Quantum Computing, Artificial Intelligence, and Software Engineering**.
-
-My work focuses on developing and experimenting with **quantum-classical hybrid systems**, **Quantum Machine Learning (QML)**, **Variational Quantum Algorithms**, **Quantum Neural Networks**, and **optimization techniques** using simulation-based environments.
-
-I combine my background in **software engineering, machine learning, and application development** to design practical, research-oriented solutions for emerging quantum technologies.
-
-### 🔬 Areas of Focus
-
-- ⚛️ Quantum Computing & Quantum Software
-- 🧠 Quantum Machine Learning (QML)
-- 🔗 Quantum-Classical Hybrid Systems
-- 🧬 Variational Quantum Algorithms
-- 🤖 Quantum Neural Networks (QNN)
-- 📊 Machine Learning & Deep Learning
-- ⚙️ Optimization Algorithms
-- 🧪 Quantum Circuit Simulation
-- 💻 Scientific & Research Software
-- 🌐 Full-Stack Application Development
+- 🔭 **Current Focus:** Warm-Started & Decomposition-based Quantum Approximate Optimization Algorithms (QAOA) for combinatorial logistics & routing.
+- 🔬 **Research Interests:** Quantum Machine Learning (QNNs, Kernel Methods), Quantum Error Mitigation, and Variational Quantum Solvers.
+- 🛠️ **Core Paradigms:** Hybrid Quantum-Classical Pipelines (PennyLane, Qiskit, PyTorch), Optimization (CVXPY), and Scalable Software Architecture.
+- 🎯 **Mission:** Bridging theoretical quantum computing with applied classical computing to solve NP-hard industrial challenges.
 
 ---
 
 ## 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waseemakramalvi/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/waseem807)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseemgtti@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/waseem807)
 
 ---
 
-# ⚛️ Quantum & AI Stack
+# 💻 Technical Stack
 
-### Quantum Computing
+### ⚛️ Quantum Computing & Simulation
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-%231976D2.svg?style=for-the-badge&logo=python&logoColor=white)
+![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-%23052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![PennyLane](https://img.shields.io/badge/PennyLane-00AEEF?style=for-the-badge&logo=pennylane&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
-### Machine Learning & AI
-
+### 🧠 Classical Machine Learning & Optimization
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### Data Science & Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
 
----
-
-# 💻 Software Engineering Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Development
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### 🚀 Backend, Full-Stack & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases & Data Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools & DevOps
+---
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaseemAkramAlvi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WaseemAkramAlvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaseemAkramAlvi&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=WaseemAkramAlvi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" width="48%" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WaseemAkramAlvi&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
 
 ---
 
-# 🧪 Research Interests
-
-My current interests are centered around the development and evaluation of **quantum-enhanced machine learning systems**.
-
-```text
-Quantum Computing
-       │
-       ├── Quantum Machine Learning
-       │       ├── Quantum Neural Networks
-       │       ├── Variational Quantum Algorithms
-       │       └── Quantum-Classical Models
-       │
-       ├── Quantum Optimization
-       │       ├── Optimization Algorithms
-       │       └── Variational Optimization
-       │
-       └── Quantum Software Engineering
-               ├── Circuit Design
-               ├── Simulation
-               └── Hybrid Workflows
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=WaseemAkramAlvi&icon=5&color=4" alt="Visitor Count" />
+  </a>
+</p>
